@@ -1,19 +1,19 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [5384] using StatReload
-INFO:     Started server process [5386]
+INFO:     Started reloader process [6948] using StatReload
+INFO:     Started server process [6950]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:39674 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39710 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39704 - "GET /api/metrics HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39688 - "GET /api/metrics HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52868 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:52876 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52880 - "GET /api/metrics HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52876 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52880 - "GET /api/metrics HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52876 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52880 - "GET /api/metrics HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52876 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52880 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49312 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49340 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49362 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:49356 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49314 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51942 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51930 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51930 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51942 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51930 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51942 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51942 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51930 - "GET /api/metrics HTTP/1.1" 200 OK
