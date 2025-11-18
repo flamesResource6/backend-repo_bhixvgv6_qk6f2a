@@ -1,13 +1,19 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [2256] using StatReload
-INFO:     Started server process [2262]
+INFO:     Started reloader process [3819] using StatReload
+INFO:     Started server process [3821]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:59102 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:52396 - "GET /api/metrics HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52396 - "GET /api/metrics HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52382 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52382 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52382 - "GET /api/activity HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52382 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58146 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58162 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58158 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58154 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58174 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:57404 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57406 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57404 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57406 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57406 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57404 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57406 - "GET /api/activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57404 - "GET /api/metrics HTTP/1.1" 200 OK
